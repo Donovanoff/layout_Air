@@ -1,4 +1,4 @@
-#Air landing page
+# Air landing page
 In this project, I developed a landing page based on a Figma design, implementing HTML and SCSS while adhering to the BEM methodology.
 By incorporating CSS Grid, I ensured the responsiveness of the layout across various screen sizes.
 This approach facilitated efficient styling and maintenance, resulting in a visually appealing and user-friendly interface.
